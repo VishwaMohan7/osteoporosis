@@ -1,5 +1,5 @@
 streamlit==1.38.0 
-torch==2.4.1 
+torch==2.7.1 
 torchvision==0.18.1 
 opencv-python==4.10.0.84 
 numpy==1.26.4 
